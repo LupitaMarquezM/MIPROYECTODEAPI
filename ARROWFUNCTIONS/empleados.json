@@ -1,0 +1,14 @@
+[
+    {
+        "nombre" : "Lupita",
+        "puesto" : "Desarrollador Web"
+    },
+    {
+        "nombre" : "Diego",
+        "puesto" : "Diseñador gráfica"
+    },
+    {
+        "nombre" : "Evelyn",
+        "puesto" : "Aplicaciones Móviles"
+    }
+]

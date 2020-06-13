@@ -1,0 +1,20 @@
+[
+     {
+          "id" : 1,
+          "nombre" : "Lupita",
+          "empresa" : "EasyWebDev",
+          "trabajo" : "Desarrollador Web"
+     },
+     {
+          "id" : 2,
+          "nombre" : "Diego",
+          "empresa" : "EasyWebDev",
+          "trabajo" : "Diseñador"
+     },
+     {
+          "id" : 3,
+          "nombre" : "Evelyn",
+          "empresa" : "EasyWebDev",
+          "trabajo" : "Aplicaciones Móviles"
+     }
+]
